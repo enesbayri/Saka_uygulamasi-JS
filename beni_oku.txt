@@ -1,0 +1,12 @@
+Bu uygulamada kullandığımız kodlarda JS ile tüm sitelerden istediğimiz veriyi çekip kullanmayı,
+veri göndermmeyi kullanıcaz.
+
+1-)Bazı sitelerden şakalar çekicez,    ->https://api.chucknorris.io/
+2-)Bazı sitelerden resimler çekicez,   ->https://unsplash.com/developers      
+(önce bu siteye üye olman gerek,New application yapınca verilen keyi kullanman gerek(keyapi),yani site yetkini bilir,kim olduğunu bilir 
+istek yapanın.***Keyi alınca sitenin dökümantasyonuna bakıp nasıl çekeceğini vs öğrenebilirsin)
+3-)Google translate apisi ile şakayı başka dile çeviricez. https://cloud.google.com/translate/
+
+
+YANİ BU PROGRAMDAN SONRA İSTEDİĞİN SİTEDEN İSTEDİĞİN VERİYİ ÇEKİP VEYA YOLLAYIP İSTEDİĞİN TÜRDE BİR SİTE YAPABİLİRSİN.
+YOUTUBE GOOGLE GİBİ BÜYÜK APİLERİ BİLE KULLANABİLİRSİN
